@@ -18,7 +18,7 @@
 		<li><a href= "">Business card</a>
 			<li><a href= "">Billboard</a>
 				<li><a href= "">Conclusion</a>
-					<li><a href= "">Sketches</li></a>
+					<li><a href= "">Sketches</a>
 						
 <h2 class= "logo">Business Logo</h2>
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Logo.png?raw=true" width="200" height="200" alt="Business Logo">
