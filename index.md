@@ -13,9 +13,12 @@
 </p>
 
 <h2>Table of Contents</h2>
-<li>Logo
-	<a href= "https://pcsb.instructure.com/courses/68420/assignments/2007429"><li>Letterhead</li></a>
-		<li>Business card
-			<li>Billboard
-				<li>Conclusion
-					<li>Sketches
+<a href= "#logo"><li>Logo</li></a>
+	<a href= ""><li>Letterhead</li></a>
+		<a href= ""><li>Business card</li></a>
+			<a href= ""><li>Billboard<li></a>
+				<a href= ""><li>Conclusion</li></a>
+					<a href= ""><li>Sketches</li></a>
+						
+<h2 class= "logo">Business Logo</h2>
+
