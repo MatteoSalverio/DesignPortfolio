@@ -21,4 +21,5 @@
 					<li><a href= "">Sketches</li></a>
 						
 <h2 class= "logo">Business Logo</h2>
-<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Logo.png">
+<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Logo.png?raw=true">
+
