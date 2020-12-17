@@ -13,14 +13,14 @@
 </p>
 
 <h2>Table of Contents</h2>
-- [Logo](#logo)
+- [Business Logo](#Logo)
 	<li><a href= "#letterhead">Letterhead</a>
 		<li><a href= "">Business card</a>
 			<li><a href= "">Billboard</a>
 				<li><a href= "">Conclusion</a>
 					<li><a href= "">Sketches</a>
 						
-<h2 class="logo">Business Logo</h2>
+<h2 class="Logo">Business Logo</h2>
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Logo.png?raw=true" width="200" height="200" alt="Business Logo">
 <p>This logo is for my website troubleshoot.it. It is designed to resemble a simple computer processor. I designed it using a simple gree background, then I found a circuit design on the internet that I liked, and made it transparent, so that it could become a pattern, I then put it on the logo. I added a box shape on the top layer, and gave it a drop shadow effect, to create depth. Finally, I gave the whole thing an outline with the stroke effect.</p>
 
