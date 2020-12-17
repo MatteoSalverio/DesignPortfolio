@@ -13,11 +13,11 @@
 </p>
 
 <h2>Table of Contents</h2>
-<a href= "#logo"><li>Logo</li></a>
-	<a href= ""><li>Letterhead</li></a>
-		<a href= ""><li>Business card</li></a>
-			<a href= ""><li>Billboard</li></a>
-				<a href= ""><li>Conclusion</li></a>
+<a href= "#logo"><li>Logo</a>
+	<a href= ""><li>Letterhead</a>
+		<a href= ""><li>Business card</a>
+			<a href= ""><li>Billboard</a>
+				<a href= ""><li>Conclusion</a>
 					<a href= ""><li>Sketches</li></a>
 						
 <h2 class= "logo">Business Logo</h2>
