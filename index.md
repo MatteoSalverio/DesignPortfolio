@@ -2,7 +2,7 @@
 	h1 { text-align: center}
 	h2 { text-align: center}
 	li { text-align: center}
-	img {align: center}
+	#picture {align: center}
 </style>
 
 <h1>Matteo Salverio's Design Portfolio</h1>
@@ -21,16 +21,16 @@
 				<li>Conclusion
 					<li>Sketches</li>
 <h2>Business Logo</h2>
-<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Logo.png?raw=true" width="200" height="200" align="center" alt="Business Logo">
+<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Logo.png?raw=true" width="200" height="200" align="center" alt="Business Logo" class="picture">
 <p>This logo is for my website troubleshoot.it. It is designed to resemble a simple computer processor. I designed it using a simple gree background, then I found a circuit design on the internet that I liked, and made it transparent, so that it could become a pattern, I then put it on the logo. I added a box shape on the top layer, and gave it a drop shadow effect, to create depth. Finally, I gave the whole thing an outline with the stroke effect.</p>
 <h2>Business Letterhead</h2>
-<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Letterhead.png?raw=true" height="400" align="center" alt="Business Letterhead">
+<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Letterhead.png?raw=true" height="400" align="center" alt="Business Letterhead" class="picture">
 <p>This business letterhead was designed with simplicity in mind. I wanted the logo, website name, and contact info to be there. I also designed it with a lot of empty space in mind, because you need plenty of room to write a business letter.</p>
 
 <h2>Business Card</h2>
-<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Business%20Card.png?raw=true" width="350" align="center" alt="Business Card">
+<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Business%20Card.png?raw=true" width="350" align="center" alt="Business Card" class="picture">
 <p>This business card was designed in a very similar way to the letterhead. I didn't want it to be confusing to anyone. I wanted a decent amount of blank space, with enough information to get a customer to where they need to be.</p>
 
 <h2>Business Advertisement</h2>
-<img src="" width="400">
+<img src="" width="400" class="picture">
 <p>This advertisement is made to resemble one of the most common computer errors, the "Blue Screen of Death" on Windows 10. This makes the ad relatable, and easily demonstrates what the website is for.</p>
