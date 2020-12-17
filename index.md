@@ -2,6 +2,7 @@
 	h1 { text-align: center}
 	h2 { text-align: center}
 	li { text-align: center}
+	img {align: center}
 </style>
 
 <h1>Matteo Salverio's Design Portfolio</h1>
@@ -32,3 +33,4 @@
 
 <h2>Business Advertisement</h2>
 <img src="" width="400">
+<p>This advertisement is made to resemble one of the most common computer errors, the "Blue Screen of Death" on Windows 10. This makes the ad relatable, and easily demonstrates what the website is for.</p>
