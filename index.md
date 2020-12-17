@@ -13,7 +13,7 @@
 </p>
 
 <h2>Table of Contents</h2>
-<li><a href= "#logo">Logo</a>
+- [Logo](#logo)
 	<li><a href= "#letterhead">Letterhead</a>
 		<li><a href= "">Business card</a>
 			<li><a href= "">Billboard</a>
@@ -27,3 +27,7 @@
 <h2 class="letterhead">Business Letterhead</h2>
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Letterhead.png?raw=true" height="400" alt="Business Letterhead">
 <p>This business letterhead was designed with simplicity in mind. I wanted the logo, website name, and contact info to be there.</p>
+
+<h2>Business Card</h2>
+<img src="" width="350" alt="Business Card">
+<p>This business card was designed in a very similar way to the letterhead.</p>
