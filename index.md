@@ -16,9 +16,9 @@
 <a href= "#logo"><li>Logo</li></a>
 	<a href= ""><li>Letterhead</li></a>
 		<a href= ""><li>Business card</li></a>
-			<a href= ""><li>Billboard<li></a>
+			<a href= ""><li>Billboard</li></a>
 				<a href= ""><li>Conclusion</li></a>
 					<a href= ""><li>Sketches</li></a>
 						
 <h2 class= "logo">Business Logo</h2>
-
+<img url= ""></img>
