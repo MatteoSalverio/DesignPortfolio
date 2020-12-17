@@ -13,7 +13,7 @@
 </p>
 
 <h2>Table of Contents</h2>
-- [Business Logo](#heading)
+- [Logo](#heading)
 	<li><a href= "#letterhead">Letterhead</a>
 		<li><a href= "">Business card</a>
 			<li><a href= "">Billboard</a>
@@ -22,7 +22,7 @@
 						
 <!-- toc -->
 
-## Business Logo
+## Logo
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Logo.png?raw=true" width="200" height="200" align="center" alt="Business Logo">
 <p>This logo is for my website troubleshoot.it. It is designed to resemble a simple computer processor. I designed it using a simple gree background, then I found a circuit design on the internet that I liked, and made it transparent, so that it could become a pattern, I then put it on the logo. I added a box shape on the top layer, and gave it a drop shadow effect, to create depth. Finally, I gave the whole thing an outline with the stroke effect.</p>
 ## Business Letterhead
@@ -32,3 +32,5 @@
 ## Business Card
 <img src="" width="350" align="center" alt="Business Card">
 <p>This business card was designed in a very similar way to the letterhead. I didn't want it to be confusing to anyone. I wanted a decent amount of white space, with enough information to get a customer to where they need to be.</p>
+
+## Business Advertisement
