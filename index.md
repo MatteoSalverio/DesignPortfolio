@@ -2,7 +2,12 @@
 	h1 { text-align: center}
 	h2 { text-align: center}
 	li { text-align: center}
-	#picture {align: center}
+	.picture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 </style>
 
 <h1>Matteo Salverio's Design Portfolio</h1>
