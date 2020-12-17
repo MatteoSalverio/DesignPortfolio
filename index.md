@@ -21,5 +21,5 @@
 					<li><a href= "">Sketches</li></a>
 						
 <h2 class= "logo">Business Logo</h2>
-<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Logo.png?raw=true">
-
+<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Logo.png?raw=true" width="200" height="200" alt="Business Logo">
+<p>This logo is for my website troubleshoot.it. It is designed to resemble a simple computer processor</p>
