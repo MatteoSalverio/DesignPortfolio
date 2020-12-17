@@ -1,6 +1,7 @@
 <style>
 	h1 { text-align: center}
-	
+	h2 { text-align: center}
+	li { text-align: center}
 </style>
 
 <h1>Matteo Salverio's Design Portfolio</h1>
