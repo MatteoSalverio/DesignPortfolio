@@ -13,7 +13,7 @@
 </p>
 
 <h2>Table of Contents</h2>
-- [Business Logo](#Logo)
+- [Business Logo](#heading)
 	<li><a href= "#letterhead">Letterhead</a>
 		<li><a href= "">Business card</a>
 			<li><a href= "">Billboard</a>
