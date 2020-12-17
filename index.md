@@ -30,4 +30,4 @@
 
 <h2>Business Card</h2>
 <img src="" width="350" alt="Business Card">
-<p>This business card was designed in a very similar way to the letterhead.</p>
+<p>This business card was designed in a very similar way to the letterhead. I didn't want it to be confusing to anyone. I wanted a decent amount of white space, with enough information to get a customer to where they need to be.</p>
