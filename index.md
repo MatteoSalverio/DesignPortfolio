@@ -23,3 +23,7 @@
 <h2 class= "logo">Business Logo</h2>
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Logo.png?raw=true" width="200" height="200" alt="Business Logo">
 <p>This logo is for my website troubleshoot.it. It is designed to resemble a simple computer processor. I designed it using a simple gree background, then I found a circuit design on the internet that I liked, and made it transparent, so that it could become a pattern, I then put it on the logo. I added a box shape on the top layer, and gave it a drop shadow effect, to create depth. Finally, I gave the whole thing an outline with the stroke effect.</p>
+
+<h2>Business Letterhead</h2>
+<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Letterhead.png?raw=true" height="400" alt="Business Letterhead">
+<p>This business letterhead was designed with simplicity in mind. I wanted the logo, website name, and contact info to be there.</p>
