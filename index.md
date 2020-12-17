@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/MatteoSalverio/DesignPortfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MatteoSalverio/DesignPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1>Matteo Salverio's Design Portfolio</h1>
+<h2>Introduction</h2>
+<p>My name is Mateo Salverio, and my website is called troubleshoot.it. It is a website and service where I will take people’s technology-related issues and fix them. Then the solution will be reported to a website for all to see. I don’t believe that this will be a permanent job for me, but it will be a good experience.
+	I am creating this portfolio with the hope that I can look back on this for inspiration in the future, and maybe even use these assets directly in the future. This project has been helpful to me in that I can figure out a general idea of what I want my career to be when I am older.
+	My design for all the different projects in this portfolio is that I am trying to give it a technological feel to it, because it is a technology-based company. I have been using blue and green a lot, because I like them as colors, and a lot of technology like motherboards are green or blue. I want to keep my design simple, because the people seeing it are the ones who need help, and they likely are not that advanced with technology, so I would not like to overwhelm them with pictures, videos, crazy fonts, and other things like that.
+	As I did all these projects, I learned about what I want to be, and how I want to get there. I have figured out what designs I like, and what I don’t like. This is all helpful for me to get what I want when thee time comes to do all of this in the real world. I will be able to find exactly what I want, and I will know exactly how to get there. I won’t have to waste my time talking to other designers or doing research.
+</p>
