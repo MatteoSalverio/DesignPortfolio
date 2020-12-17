@@ -13,12 +13,12 @@
 </p>
 
 <h2>Table of Contents</h2>
-<a href= "#logo">Logo</a>
-	<a href= "">Letterhead</a>
-		<a href= "">Business card</a>
-			<a href= "">Billboard</a>
-				<a href= "">Conclusion</a>
-					<a href= "">Sketches</li></a>
+<li><a href= "#logo">Logo</a>
+	<li><a href= "">Letterhead</a>
+		<li><a href= "">Business card</a>
+			<li><a href= "">Billboard</a>
+				<li><a href= "">Conclusion</a>
+					<li><a href= "">Sketches</li></a>
 						
 <h2 class= "logo">Business Logo</h2>
-<img url= "https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Logo.png?raw=true"></img>
+<img url= "https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Logo.png"></img>
