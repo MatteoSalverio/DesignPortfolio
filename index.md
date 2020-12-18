@@ -45,4 +45,4 @@
 <p>This billboard was a design project where I had to make a billboard that helps to prevent texting and driving.</p>
 
 <h2>Conclusion</h2>
-<p>Doing these projects, I have learned a lot about digital design, and even a bit about business management, I have grown my skills in Photoshop greatly. I enjoyed making </p>
+<p>Doing these projects, I have learned a lot about digital design, and even a bit about business management, I have grown my skills in Photoshop greatly. I enjoyed making all of these projects, because it has helped me find my interests, and what I would want a future business of mine to look like. I may end up using these assets in the future, but I am likely to take what skills I have and build upon them to improve these things.</p>
