@@ -21,9 +21,10 @@
 <li>Business Card
 	<li>Letterhead
 		<li>Business card
-			<li>Billboard
-				<li>Conclusion
-					<li>Sketches</li>
+			<li>Business Advertisement
+				<li>Billboard
+					<li>Conclusion
+						<li>Sketches</li>
 <h2>Business Logo</h2>
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Logo.png?raw=true" width="200" height="200" align="center" alt="Business Logo" class="picture">
 <p>This logo is for my website troubleshoot.it. It is designed to resemble a simple computer processor. I designed it using a simple gree background, then I found a circuit design on the internet that I liked, and made it transparent, so that it could become a pattern, I then put it on the logo. I added a box shape on the top layer, and gave it a drop shadow effect, to create depth. Finally, I gave the whole thing an outline with the stroke effect.</p>
@@ -36,5 +37,9 @@
 <p>This business card was designed in a very similar way to the letterhead. I didn't want it to be confusing to anyone. I wanted a decent amount of blank space, with enough information to get a customer to where they need to be.</p>
 
 <h2>Business Advertisement</h2>
-<img src="" width="400" class="picture">
+<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Advertisement.png?raw=true" width="400" class="picture">
 <p>This advertisement is made to resemble one of the most common computer errors, the "Blue Screen of Death" on Windows 10. This makes the ad relatable, and easily demonstrates what the website is for.</p>
+
+<h2>Billboard</h2>
+<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Billboard.png?raw=true" width="600" class="picture">
+<p>This billboard was a design project where I had to make a billboard that helps to prevent texting and driving.</p>
