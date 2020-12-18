@@ -28,7 +28,7 @@
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Logo.png?raw=true" width="200" height="200" align="center" alt="Business Logo" class="picture">
 <p>This logo is for my website troubleshoot.it. It is designed to resemble a simple computer processor. I designed it using a simple gree background, then I found a circuit design on the internet that I liked, and made it transparent, so that it could become a pattern, I then put it on the logo. I added a box shape on the top layer, and gave it a drop shadow effect, to create depth. Finally, I gave the whole thing an outline with the stroke effect.</p>
 <h3>Sketch:</h3>
-<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/sketches/Logo%20Sketch.jpg?raw=true" height="400">
+<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/sketches/Logo%20Sketch.jpg?raw=true" height="400" class="picture">
 
 <h2>Business Letterhead</h2>
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Letterhead.png?raw=true" height="400" align="center" alt="Business Letterhead" class="picture">
@@ -39,13 +39,13 @@
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Business%20Card.png?raw=true" width="350" align="center" alt="Business Card" class="picture">
 <p>This business card was designed in a very similar way to the letterhead. I didn't want it to be confusing to anyone. I wanted a decent amount of blank space, with enough information to get a customer to where they need to be.</p>
 <h3>Sketch:</h3>
-<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/sketches/Card%20Sketch.jpg?raw=true" width="300">
+<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/sketches/Card%20Sketch.jpg?raw=true" width="300" class="picture">
 
 <h2>Business Advertisement</h2>
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Advertisement.png?raw=true" width="400" class="picture">
 <p>This advertisement is made to resemble one of the most common computer errors, the "Blue Screen of Death" on Windows 10. This makes the ad relatable, and easily demonstrates what the website is for.</p>
 <h3>Sketch:</h3>
-<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/sketches/Ad%20Sketch.jpg?raw=true" width="300">
+<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/sketches/Ad%20Sketch.jpg?raw=true" width="300" class="picture">
 
 <h2>Billboard</h2>
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Billboard.png?raw=true" width="600" class="picture">
