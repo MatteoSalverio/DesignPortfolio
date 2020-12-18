@@ -43,3 +43,6 @@
 <h2>Billboard</h2>
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Billboard.png?raw=true" width="600" class="picture">
 <p>This billboard was a design project where I had to make a billboard that helps to prevent texting and driving.</p>
+
+<h2>Conclusion</h2>
+<p>Doing these projects, I have learned </p>
