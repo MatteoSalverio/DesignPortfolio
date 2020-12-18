@@ -35,6 +35,7 @@
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Letterhead.png?raw=true" height="400" align="center" alt="Business Letterhead" class="picture">
 <p>This business letterhead was designed with simplicity in mind. I wanted the logo, website name, and contact info to be there. I also designed it with a lot of empty space in mind, because you need plenty of room to write a business letter.</p>
 <h3>Sketch:</h3>
+<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/sketches/Letterhead%20Sketch.jpg?raw=true" height="350" class="picture">
 
 <h2>Business Card</h2>
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Business%20Card.png?raw=true" width="350" align="center" alt="Business Card" class="picture">
@@ -52,6 +53,7 @@
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Billboard.png?raw=true" width="600" class="picture">
 <p>This billboard was a design project where I had to make a billboard that helps to prevent texting and driving. It is a simple and easy to quickly read while driving, which is perfect for a billboard, because nobody is going to want to stop their car on a highway to look at an advertisement.</p>
 <h3>Sketch:</h3>
+<img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/sketches/Billboard.jpg?raw=true" width="300" class="picture">
 
 <h2>Conclusion</h2>
 <p>Doing these projects, I have learned a lot about digital design, and even a bit about business management, I have grown my skills in Photoshop greatly. I enjoyed making all of these projects, because it has helped me find my interests, and what I would want a future business of mine to look like. I may end up using these assets in the future, but I am likely to take what skills I have and build upon them to improve these things. I am excited to see what I will be able to make in the future, when my skills will have improved. I learned that design is not an easy thing, it takes time, planning, work, and effort to get what you want out of a project.</p>
