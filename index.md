@@ -29,6 +29,7 @@
 <p>This logo is for my website troubleshoot.it. It is designed to resemble a simple computer processor. I designed it using a simple gree background, then I found a circuit design on the internet that I liked, and made it transparent, so that it could become a pattern, I then put it on the logo. I added a box shape on the top layer, and gave it a drop shadow effect, to create depth. Finally, I gave the whole thing an outline with the stroke effect.</p>
 <h3>Sketch:</h3>
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/sketches/Logo%20Sketch.jpg?raw=true" height="400" class="picture">
+<p>I went through many design options, but I ended up going for a more simplistic design in the end.</p>
 
 <h2>Business Letterhead</h2>
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Letterhead.png?raw=true" height="400" align="center" alt="Business Letterhead" class="picture">
