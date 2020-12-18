@@ -23,26 +23,31 @@
 		<li>Business card
 			<li>Business Advertisement
 				<li>Billboard
-					<li>Conclusion
-						<li>Sketches</li>
+					<li>Conclusion</li>
 <h2>Business Logo</h2>
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Logo.png?raw=true" width="200" height="200" align="center" alt="Business Logo" class="picture">
 <p>This logo is for my website troubleshoot.it. It is designed to resemble a simple computer processor. I designed it using a simple gree background, then I found a circuit design on the internet that I liked, and made it transparent, so that it could become a pattern, I then put it on the logo. I added a box shape on the top layer, and gave it a drop shadow effect, to create depth. Finally, I gave the whole thing an outline with the stroke effect.</p>
+<h3>Sketch:</h3>
+
 <h2>Business Letterhead</h2>
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Letterhead.png?raw=true" height="400" align="center" alt="Business Letterhead" class="picture">
 <p>This business letterhead was designed with simplicity in mind. I wanted the logo, website name, and contact info to be there. I also designed it with a lot of empty space in mind, because you need plenty of room to write a business letter.</p>
+<h3>Sketch:</h3>
 
 <h2>Business Card</h2>
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Business%20Card.png?raw=true" width="350" align="center" alt="Business Card" class="picture">
 <p>This business card was designed in a very similar way to the letterhead. I didn't want it to be confusing to anyone. I wanted a decent amount of blank space, with enough information to get a customer to where they need to be.</p>
+<h3>Sketch:</h3>
 
 <h2>Business Advertisement</h2>
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Advertisement.png?raw=true" width="400" class="picture">
 <p>This advertisement is made to resemble one of the most common computer errors, the "Blue Screen of Death" on Windows 10. This makes the ad relatable, and easily demonstrates what the website is for.</p>
+<h3>Sketch:</h3>
 
 <h2>Billboard</h2>
 <img src="https://github.com/MatteoSalverio/DesignPortfolio/blob/gh-pages/photos/Billboard.png?raw=true" width="600" class="picture">
-<p>This billboard was a design project where I had to make a billboard that helps to prevent texting and driving.</p>
+<p>This billboard was a design project where I had to make a billboard that helps to prevent texting and driving. It is a simple and easy to quickly read while driving, which is perfect for a billboard, because nobody is going to want to stop their car on a highway to look at an advertisement.</p>
+<h3>Sketch:</h3>
 
 <h2>Conclusion</h2>
-<p>Doing these projects, I have learned a lot about digital design, and even a bit about business management, I have grown my skills in Photoshop greatly. I enjoyed making all of these projects, because it has helped me find my interests, and what I would want a future business of mine to look like. I may end up using these assets in the future, but I am likely to take what skills I have and build upon them to improve these things.</p>
+<p>Doing these projects, I have learned a lot about digital design, and even a bit about business management, I have grown my skills in Photoshop greatly. I enjoyed making all of these projects, because it has helped me find my interests, and what I would want a future business of mine to look like. I may end up using these assets in the future, but I am likely to take what skills I have and build upon them to improve these things. I am excited to see what I will be able to make in the future, when my skills will have improved. I learned that design is not an easy thing, it takes time, planning, work, and effort to get what you want out of a project.</p>
